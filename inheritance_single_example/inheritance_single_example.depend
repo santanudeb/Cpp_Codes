@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520087207 source:d:\installed\codeblocks\programs\inheritance_single_example\main.cpp
+	<iostream>
+	<conio.h>
+
